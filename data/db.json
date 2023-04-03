@@ -1,0 +1,38 @@
+{
+    "products": [{
+        "id": "1001",
+        "name": "Sony Wh-Ch510 Wireless",
+        "product_image":"/images/1001.png",
+        "price": "$149"
+    },
+    {
+        "id": "1002",
+        "name": "bOAt Rockerz 450",
+        "product_image": "/images/1002.png",
+        "price": "$49"
+    },
+    {
+        "id": "1003",
+        "name": "JBL TUNE",
+        "product_image": "/images/1003.png",
+        "price": "$60"
+    },
+    {
+        "id": "1004",
+        "name": "Logitech H111 wired",
+        "product_image": "/images/1004.png",
+        "price": "$39"
+    },
+    {
+        "id": "1005",
+        "name": "Apple Airpods Max Bluetooth Headset",
+        "product_image":"/images/1005.png",
+        "price": "$199"
+    },
+    {
+        "id": "1006",
+        "name": "Zebronics",
+        "product_image": "/images/1006.png",
+        "price": "$29"
+    }]
+}
