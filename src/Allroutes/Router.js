@@ -10,8 +10,7 @@ export const Router = () => {
   return (
     <Routes>
         <Route path="/" element={<Home />}></Route>
-        <Route path="/cart" element={<Cart />}></Route>
-        <Route></Route>
+        <Route path="/cart" element={<Cart/>}></Route>
     </Routes>
   )
 }
